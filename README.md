@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FakhtehPanah
-- 👀 I’m interested in Machine Learning, block chain and web development...
-- 🌱 I’m currently learning Python for data sience and statistics 
+- 👀 I’m interested in web development, block chain,...
+- 🌱 I’m currently learning React js and Next for front-ent development  
 - 📫 How to reach me on my Linkedin page ;)
 
 <!---
