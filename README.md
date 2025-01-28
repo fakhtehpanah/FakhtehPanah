@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FakhtehPanah
 - 👀 I’m interested in web development, block chain,...
-- 🌱 I’m currently learning React js and Next for front-ent development  
+- 🌱 I’m currently learning React js and Next for front-end development  
 - 📫 How to reach me on my Linkedin page ;)
 
 <!---
